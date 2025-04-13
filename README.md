@@ -1,6 +1,6 @@
 # 🌿 Vivero Irupe - Backend y Panel Administrativo
 
-Backend y panel administrativo desarrollado para gestionar un vivero online, permitiendo la administración eficiente de productos, imágenes y usuarios. Este sistema combina un backend robusto construido con Spring Boot y un panel administrativo diseñado con React y Next.js.
+Backend y panel administrativo desarrollado para gestionar un vivero online, permitiendo la administración eficiente de productos, imágenes y usuarios. Este sistema combina un backend robusto construido con Spring Boot y un panel administrativo diseñado con React y Next.js. Este repo solo muestra cómo se desarrolló este proyecto.
 
 🌐 **Visita la página del vivero:** [Vivero Irupe](https://viveroirupe.com/)
 
